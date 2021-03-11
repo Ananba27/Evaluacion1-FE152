@@ -1,0 +1,21 @@
+.banner {
+    border: solid 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+main {
+    display: flex;
+}
+section {
+    border: solid 1px black;
+}
+.barralateral {
+    border: solid 1px black;
+}
+.piedepag {
+    border: solid 1px black;
+}
+p {
+    text-indent: 30px;
+}
